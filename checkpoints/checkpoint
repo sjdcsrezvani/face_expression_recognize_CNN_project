@@ -1,0 +1,2 @@
+model_checkpoint_path: "FER_cpu_model_checkpoint"
+all_model_checkpoint_paths: "FER_cpu_model_checkpoint"
